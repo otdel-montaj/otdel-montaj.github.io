@@ -6,7 +6,7 @@
   <base href="https://otdel-montaj.github.io/" />
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="robots" content="index, follow" />
-  <meta name="keywords" content="ремонт, квартиры, комплексный ремонт, ремонтные работы, ремонт недорого, ремонт квартиры в Санкт-Петербурге, под ключ" />
+  <meta name="keywords" content="ремонт, квартиры, комплексный ремонт, ремонтные работы, Отдел-монтаж, ремонт квартиры в Санкт-Петербурге, под ключ" />
   <meta name="description" content="Комплексный ремонт квартир/домов/офисов. «Ремонт-недорого» - это бригада опытных специалистов в области ремонтных работ. Наша цель - довольный клиент, высокое качество и доступные ЦЕНЫ!" />
   <title>Ремонт квартиры под ключ в Санкт-Петербурге - НЕДОРОГО</title>
   <link href="/feed/rss.html" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
@@ -127,7 +127,7 @@
 				<div id="ja-pathway">
 			<div class="innerpad">
 				<span class="breadcrumbs pathway">
-Ремонт недорого</span>
+Отдел-монтаж</span>
 
 			</div>
 		</div><div class="clr"></div>
@@ -194,11 +194,11 @@
 <tr>
 <td style="width: 300px;" align="center" valign="middle">
 <p><strong><span style="font-size: 12pt;"><span style="color: #ff6600;">Телефоны для связи:</span></span></strong></p>
-<p><strong><span style="font-size: 12pt;"><span style="color: #6da43a;"> +38 (050) 760-64-66</span></span></strong></p>
-<p><strong><span style="font-size: 12pt;"><span style="color: #6da43a;"> +38 (063)-401-99-93</span></span></strong></p>
-<p><span style="font-size: 12pt;"><span style="color: #ff6600;"><strong>Владислав</strong></span></span></p>
+<p><strong><span style="font-size: 12pt;"><span style="color: #6da43a;"> +7-904-639-25-74</span></span></strong></p>
+
+<p><span style="font-size: 12pt;"><span style="color: #ff6600;"><strong>Сергей</strong></span></span></p>
 </td>
-<td align="center" valign="middle"><img src="/images/stories/design/slavik.jpg" border="0" alt="Прораб Владислав" width="170" /></td>
+<td align="center" valign="middle"><img src="/images/stories/design/slavik.jpg" border="0" alt="Менеджер Сергей" width="170" /></td>
 </tr>
 </tbody>
 </table></td>
@@ -311,7 +311,7 @@ iD.write(iS+'" border="0" width="160" height="19" />');
 <div id="ja-footer">
 	<small><div align="center">
 <span xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review-aggregate"> 
-   <span property="v:itemreviewed">Компания «Ремонт недорого»</span> 
+   <span property="v:itemreviewed">Компания «Отдел-монтаж»</span> 
    <span rel="v:rating"> 
       <span typeof="v:Rating">      
          Оценка: 
