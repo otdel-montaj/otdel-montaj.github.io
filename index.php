@@ -7,7 +7,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="robots" content="index, follow" />
   <meta name="keywords" content="ремонт, квартиры, комплексный ремонт, ремонтные работы, Отдел-монтаж, ремонт квартиры в Санкт-Петербурге, под ключ" />
-  <meta name="description" content="Комплексный ремонт квартир/домов/офисов. «Ремонт-недорого» - это бригада опытных специалистов в области ремонтных работ. Наша цель - довольный клиент, высокое качество и доступные ЦЕНЫ!" />
+  <meta name="description" content="Комплексный ремонт квартир/домов/офисов. «Отдел-монтаж» - это бригада опытных специалистов в области ремонтных работ. Наша цель - довольный клиент, высокое качество и доступные ЦЕНЫ!" />
   <title>Ремонт квартиры под ключ в Санкт-Петербурге - НЕДОРОГО</title>
   <link href="/feed/rss.html" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
   <link href="/feed/atom.html" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
@@ -63,7 +63,7 @@
 	<div class="clearfix">
 	<div id="logo">
 		<a href="/index.php">
-			«Ремонт-недорого» - Ремонт квартир под ключ в Санкт-Петербурге		</a>
+			«Отдел-монтаж» - Ремонт квартир под ключ в Санкт-Петербурге		</a>
 	</div>
 
 	<!-- BEGIN: MAIN NAVIGATION -->
@@ -155,7 +155,7 @@
 <td valign="top" colspan="2">
 <p style="text-align: justify;">Вы хотите обратиться к строительной фирме или ремонтной бригаде, но боитесь, что Ваш бюджет «не потянет»? Забудьте о своих сомнениях! Заказать у нас ремонт квартиры, отделку офиса или любого помещения можно даже на очень скромные средства, ведь ...</p>
 <h2 style="text-align: center;">... <strong>наши <a href="/Prays-list.html" title="Цены на ремонт квартиры">цены на ремонтные работы</a> – самые доступные</strong>!</h2>
-<p style="text-align: justify;">«<strong>Ремонт-недорого</strong>»<strong> - это слаженная бригада опытных специалистов </strong>в области ремонтных работ. Главная  цель  нашей работы - <strong>довольный клиент</strong>, а не просто заработок. Поэтому работая с нами, Вы можете быть уверены в высоком качестве выполнения наших работ, учёте всех Ваших пожеланий и <strong>самым низким ценам</strong> на строительном рынке.</p>
+<p style="text-align: justify;">«<strong>Отдел-монтаж</strong>»<strong> - это слаженная бригада опытных специалистов </strong>в области ремонтных работ. Главная  цель  нашей работы - <strong>довольный клиент</strong>, а не просто заработок. Поэтому работая с нами, Вы можете быть уверены в высоком качестве выполнения наших работ, учёте всех Ваших пожеланий и <strong>самым низким ценам</strong> на строительном рынке.</p>
 <div style="text-align: center;">
 <blockquote>
 <p class="quote"><strong><span style="font-size: 14pt;"><span style="color: #6da43a;">Внимание! Мы работаем по рекомендациям...</span></span><br /><span style="font-size: 14pt;"><span style="color: #ff6600;">Узнать «о нас» от наших клиентов Вы можете</span> <a href="/Otzyvy-nashih-klientov.html" title="Отзывы наших клиентов">здесь<br /></a></span></strong></p>
@@ -188,7 +188,7 @@
 <div class="pinnote">
 <p><strong>Мы ценим время наших заказчиков</strong>, поэтому проводим ремонтные работы в кратчайшие сроки. Мы организуем ход работ так, чтобы ни один час, использованный на ремонт квартиры, не тратился впустую.</p>
 </div>
-<p style="text-align: justify;"><strong>Ремонт квартиры, домов (коттеджей) или ремонт офисов</strong>, выполненный специалистами «Ремонт-недорого», отличается высокой надежностью, гарантия которой – надлежащее выполнение всех технологических норм, а также регулярный контроль качества. Ещё одна особенность – всегда гармоничная и визуально привлекательная отделка Вашего помещения.</p>
+<p style="text-align: justify;"><strong>Ремонт квартиры, домов (коттеджей) или ремонт офисов</strong>, выполненный специалистами «Отдел-монтаж», отличается высокой надежностью, гарантия которой – надлежащее выполнение всех технологических норм, а также регулярный контроль качества. Ещё одна особенность – всегда гармоничная и визуально привлекательная отделка Вашего помещения.</p>
 <table border="0" align="center">
 <tbody>
 <tr>
@@ -265,7 +265,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 		
 		
 				<div class="moduletable">
-					<h3>«Ремонт-недорого»</h3>
+					<h3>«Отдел-монтаж»</h3>
 					<ul class="menu"><li class="item36"><a href="/Prays-list.html"><span>Цены на ремонт квартиры</span></a></li><li class="item31"><a href="/Portfolio.html"><span>Портфолио</span></a></li><li class="item32"><a href="/O-nas.html"><span>О компании</span></a></li><li class="item33"><a href="/Otzyvy-nashih-klientov.html"><span>Отзывы клиентов</span></a></li></ul>		</div>
 			<div class="moduletable">
 					<h3>Наши услуги</h3>
@@ -305,7 +305,7 @@ iD.write(iS+'" border="0" width="160" height="19" />');
 </div>
 
 <div id="logo-ext">
-  <a href="/index.php"><img src="https://otdel-montaj.github.io/templates/ja_rochea/images/logo-ext-default.gif" alt="«Ремонт-недорого» - Ремонт квартир под ключ в Санкт-Петербурге" /></a>
+  <a href="/index.php"><img src="https://otdel-montaj.github.io/templates/ja_rochea/images/logo-ext-default.gif" alt="«Отдел-монтаж» - Ремонт квартир под ключ в Санкт-Петербурге" /></a>
 </div>
 
 <div id="ja-footer">
