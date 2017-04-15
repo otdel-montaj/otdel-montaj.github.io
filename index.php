@@ -285,9 +285,9 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 <!-- BEGIN: FOOTER -->
 <div id="ja-botnavwrap" class="clearfix">
-<small><!-- I.UA counter --><a href="http://www.i.ua/" rel="nofollow" target="_blank" onclick="this.href='http://i.ua/r.php?59446';" title="Rated by I.UA">
+<small><!-- I.ru counter --><a href="http://www.i.ru/" rel="nofollow" target="_blank" onclick="this.href='http://i.ru/r.php?59446';" title="Rated by I.ru">
 <script type="text/javascript" language="javascript"><!--
-iS='<img src="http://r.i.ua/s?u59446&p213&n'+Math.random();
+iS='<img src="http://r.i.ru/s?u59446&p213&n'+Math.random();
 iD=document;iD.cookie="iua=1";if(iD.cookie)iS+='&c1';
 iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
 +"&w"+screen.width+'&h'+screen.height;
@@ -296,7 +296,7 @@ iT=iD.referrer.slice(7);iH=window.location.href.slice(7);
 if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7));
 iS+='&r'+escape(iH);
 iD.write(iS+'" border="0" width="160" height="19" />');
-//--></script></a><!-- End of I.UA counter --></small>
+//--></script></a><!-- End of I.ru counter --></small>
 	<div id="ja-botnav" class="clearfix">
 		
 		<ul class="menu"><li id="current" class="active item1"><a href="https://otdel-montaj.github.io/"><span>Главная</span></a></li><li class="item22"><a href="/Prays-list.html"><span>Цены</span></a></li><li class="item27"><a href="/Portfolio.html"><span>Наши работы</span></a></li><li class="item28"><a href="/O-nas.html"><span>О нас</span></a></li><li class="item29"><a href="/Otzyvy-nashih-klientov.html"><span>Отзывы клиентов</span></a></li><li class="item4"><a href="/Kontakty/vladislav.html"><span>Контакты</span></a></li></ul>

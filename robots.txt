@@ -41,4 +41,4 @@ Disallow: /*type=rss
 Disallow: /*task=rss
 Disallow: /index2.php
 Disallow: /feed/
-Host: remont-nedorogo.com.ua
+Host: remont-nedorogo.com.ru
